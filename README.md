@@ -87,8 +87,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CachorroIvan&show_icons=true&include_all_commits=true&count_private=true&theme=aura&locale=es" height="150" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CachorroIvan&layout=compact&langs_count=5&theme=aura&locale=es" height="150" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CachorroIvan&show_icons=true&include_all_commits=true&count_private=true&theme=aura&locale=es" height="150" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=CachorroIvan&layout=compact&langs_count=5&theme=aura&locale=es" height="150" alt="Lenguajes más usados" />
 </div>
 
 ###
